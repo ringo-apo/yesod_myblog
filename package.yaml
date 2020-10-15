@@ -44,9 +44,9 @@ dependencies:
 - foreign-store
 - markdown
 - yesod-text-markdown
+#- yesod-text-markdown-0.1.10
 - pandoc
 - markdown
-- yesod-text-markdown
 - blaze-markup
 - bytestring
 - xss-sanitize
