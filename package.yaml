@@ -44,12 +44,6 @@ dependencies:
 - foreign-store
 - markdown
 - yesod-text-markdown
-#- yesod-text-markdown-0.1.10
-- pandoc
-- markdown
-- blaze-markup
-- bytestring
-- xss-sanitize
 
 # The library contains all of our application code. The executable
 # defined below is just a thin wrapper.

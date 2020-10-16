@@ -13,7 +13,7 @@ packages:
     hackage: yesod-text-markdown-0.1.10@sha256:5ec2f0c7723f3ae134189d2a265bc1b37bad99b9b4b7bd452645c7e5a81b1bf8,2281
 snapshots:
 - completed:
-    size: 491372
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/15/5.yaml
-    sha256: 1b549cfff328040c382a70a84a2087aac8dab6d778bf92f32a93a771a1980dfc
-  original: lts-15.5
+    size: 532172
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/16/18.yaml
+    sha256: 4f2a092c6f4869854e8d7435ab98ce5157c641022c3cbfc4c4614ff3db752e62
+  original: lts-16.18
